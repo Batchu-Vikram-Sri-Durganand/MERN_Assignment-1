@@ -8,8 +8,6 @@ This repository contains 5 HTML tasks and 7 CSS tasks that demonstrate various s
 - [File Structure](#file-structure)
 - [Tasks](#tasks)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Overview
 
