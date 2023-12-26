@@ -1,5 +1,4 @@
-# HTML and CSS Tasks README
-
+# HTML and CSS Tasks
 This repository contains 5 HTML tasks and 7 CSS tasks that demonstrate various skills and techniques in web development.
 
 ## Table of Contents
